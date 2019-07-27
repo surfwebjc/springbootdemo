@@ -1,0 +1,14 @@
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\WeatherDataPerZipcode.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\WeatherDataCollection.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\WeatherMain.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\exception\CustomExceptionHandler.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\Wind.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\config\WeatherConfig.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\CityLocation.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\Weather.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\ZipCodes.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\model\WeatherData.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\dao\WeatherDAO.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\SpringBootDemoApplication.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\controller\WeatherQueryController.java
+C:\dev\springbootrestdemo\src\main\java\com\howtodoinjava\rest\exception\ErrorResponse.java

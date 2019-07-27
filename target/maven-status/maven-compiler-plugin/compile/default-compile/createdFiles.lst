@@ -1,0 +1,14 @@
+com\howtodoinjava\rest\model\Weather.class
+com\howtodoinjava\rest\model\WeatherDataPerZipcode.class
+com\howtodoinjava\rest\model\WeatherMain.class
+com\howtodoinjava\rest\SpringBootDemoApplication.class
+com\howtodoinjava\rest\exception\CustomExceptionHandler.class
+com\howtodoinjava\rest\config\WeatherConfig.class
+com\howtodoinjava\rest\model\WeatherDataCollection.class
+com\howtodoinjava\rest\exception\ErrorResponse.class
+com\howtodoinjava\rest\model\CityLocation.class
+com\howtodoinjava\rest\model\ZipCodes.class
+com\howtodoinjava\rest\dao\WeatherDAO.class
+com\howtodoinjava\rest\model\Wind.class
+com\howtodoinjava\rest\model\WeatherData.class
+com\howtodoinjava\rest\controller\WeatherQueryController.class
