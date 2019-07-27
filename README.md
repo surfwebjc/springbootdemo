@@ -1,6 +1,8 @@
 # springbootdemo
 #simple restful service project
 
+Source code is available at GitHub: https://github.com/surfwebjc/springbootdemo/tree/dev
+
 Build and launch rest service.
 1)unzip the source zip file to c:\dev
 2)cd C:\dev\springbootrestdemo
@@ -19,3 +21,4 @@ use post method, and send city location as "application/json" like the following
 Test client with Junit test in the project
 1)import the source code as Maven project in eclipse or other IDE. 
 2)run the junit test case  com.howtodoinjava.demo.WeatherRestTest under src/test/java
+
